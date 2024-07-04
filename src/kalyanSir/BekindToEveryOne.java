@@ -1,0 +1,10 @@
+package kalyanSir;
+
+public class BekindToEveryOne {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
