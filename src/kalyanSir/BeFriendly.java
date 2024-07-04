@@ -7,6 +7,9 @@ public class BeFriendly {
 		System.out.println("our main agenda is to teach core "
 				+ "fuctionality like as primary colours");
 		System.out.println("Arif is a good person");
+		System.out.println("Arif is a good boy");
+		System.out.println("Arif is a wise person");
+		System.out.println("Arif is a kind person");
 
 	}
 
